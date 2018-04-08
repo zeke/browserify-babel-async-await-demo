@@ -1,4 +1,4 @@
-# browserify-babel-async-await-example 
+# browserify-babel-async-await-demo 
 
 A minimal demo of async/await working in a browser in April 2018.
 

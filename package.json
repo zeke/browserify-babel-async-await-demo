@@ -1,5 +1,5 @@
 {
-  "name": "browserify-babel-async-await-example",
+  "name": "browserify-babel-async-await-demo",
   "description": "A minimal demo of async/await working in a browser in April 2018.",
   "private": true,
   "license": "MIT",
